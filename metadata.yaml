@@ -1,0 +1,39 @@
+_repo: Life-of-St.-Francis-of-Assisi_18787
+_version: 0.1.0
+alternative_title:
+- Vie de S. François d'Assise. English
+- Life of Saint Francis of Assisi
+contributor:
+  translator:
+    agent_name: Houghton, Louise Seymour
+    alias: Houghton, Louise S. (Louise Seymour)
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '8250'
+    url: http://www.gutenberg.org/2009/agents/8250
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sabatier, Paul
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '8249'
+    url: http://www.gutenberg.org/2009/agents/8249
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Sabatier
+description: ''
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Biography'
+- !lcc 'BX'
+- !lcsh 'Francis, of Assisi, Saint, 1182-1226'
+title: Life of St. Francis of Assisi
+url: http://www.gutenberg.org/ebooks/18787
