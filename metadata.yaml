@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8249
     wikipedia: http://en.wikipedia.org/wiki/Paul_Sabatier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18787#Life-of-St.-Francis-of-Assisi
 gutenberg_issued: '2006-07-08'
 gutenberg_type: Text
 identifiers:
